@@ -25,6 +25,6 @@ The lab materials for undergraduates to realize TCP protocol on the simulation p
 
 - IDE和开发环境说明
 
-- 所有Java IDE均可使用
+-- 所有Java IDE均可使用
 
-- JDK建议：下载jdk-6-6u45-windows-i586.exe 或低于 JDK 8的版本
+-- JDK建议：下载jdk-6-6u45-windows-i586.exe 或低于 JDK 8的版本
