@@ -22,3 +22,9 @@ The lab materials for undergraduates to realize TCP protocol on the simulation p
 -- TCP_TestCode：整个实验系统的源代码，供参考和改进
 
 -- OUC-TCP-Lab-Visualizer：可视化实验实现所产生的log文件，协助实验者进行代码调试的工具。
+
+- IDE和开发环境说明
+
+- 所有Java IDE均可使用
+
+- JDK建议：下载jdk-6-6u45-windows-i586.exe 或低于 JDK 8的版本
